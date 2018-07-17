@@ -1,0 +1,5 @@
+### Show current hostname
+$ hostname
+
+### Change hostname (NEW_HOSTNAME = what you want new hostname to be)
+$ sudo hostnamectl set-hostname NEW_HOSTNAME
